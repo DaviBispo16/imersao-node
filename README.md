@@ -12,6 +12,9 @@ Com uma experiência única e inclusiva, o Instabytes vai além do comum ao inte
  
 ![Dotenv](https://img.shields.io/badge/.env-ecd53f?style=for-the-badge&logo=.env&logoColor=black)  
 
+![HTML and CSS](https://img.shields.io/badge/HTML%20and%20CSS-orange?style=for-the-badge&logo=html5&logoColor=white)
+
+
 ![Screenshot from 2024-12-04 18-55-08](https://github.com/user-attachments/assets/1c678216-96b7-46ce-8ae4-bf56321800c1)
 ![Screenshot from 2024-12-04 18-55-02](https://github.com/user-attachments/assets/801a1480-2b03-4b7a-bffa-d2f435627cc1)
 
